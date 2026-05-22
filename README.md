@@ -167,7 +167,4 @@ Thesis laboratory: Prof. Guido Favia
 ## References
 
 - Favia G. et al. (2007) Bacteria of the genus *Asaia* stably associate with *Anopheles stephensi*, an Asian malarial mosquito vector. *PNAS* 104(21):9047–9051.  
-- Crotti E. et al. (2009) *Asaia*, a versatile acetic acid bacterial symbiont, able to colonize different insect species and organs. *Appl Environ Microbiol* 75(10):3252–3258.  
-- Rossi P. et al. (2012) A *Wolbachia*-free *Asaia* paratransgenic approach to block *Plasmodium* transmission in *Anopheles* mosquitoes. *Parasites & Vectors* 5:140.  
-- Valzano M. et al. (2016) *Asaia* sp. associated with *Anopheles stephensi* and implications for malaria control. *Parasites & Vectors* 9:111.  
-- Bghoul W. et al. (2022) Invasion of *Anopheles stephensi* in Africa: a review. *Parasites & Vectors* 15:96.
+- Mnzava A. et al. (2022) *Anopheles stephensi* in Africa requires a more integrated response. *Malaria Journal* 21(1):156.
